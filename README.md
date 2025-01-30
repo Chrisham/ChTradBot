@@ -1,0 +1,2 @@
+# ChTradBot
+Chrisham Trading Bot
